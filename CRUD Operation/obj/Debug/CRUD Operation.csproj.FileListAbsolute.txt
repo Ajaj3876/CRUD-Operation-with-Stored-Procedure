@@ -1,0 +1,10 @@
+D:\C#\CRUD Operation\CRUD Operation\bin\Debug\CRUD Operation.exe.config
+D:\C#\CRUD Operation\CRUD Operation\bin\Debug\CRUD Operation.exe
+D:\C#\CRUD Operation\CRUD Operation\bin\Debug\CRUD Operation.pdb
+D:\C#\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.csproj.AssemblyReference.cache
+D:\C#\CRUD Operation\CRUD Operation\obj\Debug\CRUD_Operation.Form1.resources
+D:\C#\CRUD Operation\CRUD Operation\obj\Debug\CRUD_Operation.Properties.Resources.resources
+D:\C#\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.csproj.GenerateResource.cache
+D:\C#\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.csproj.CoreCompileInputs.cache
+D:\C#\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.exe
+D:\C#\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.pdb
